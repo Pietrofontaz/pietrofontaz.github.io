@@ -1,0 +1,11 @@
+permalink: /:categories/:title/
+url: "http://pietrofontaz.github.io"
+full_name: "Shell In A Forest"
+first_name: "P."
+last_name: "F."
+blog_title: "Shells & Forests"
+author_img_name_path: "/images/users/user.jpg"
+disqus_shortname: "Shell"
+copyright_year: "2019"
+google_analytics_code: ""
+aboutme: "Music, photography, sometimes other kinds of art."
