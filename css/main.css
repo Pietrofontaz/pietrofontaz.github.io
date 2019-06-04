@@ -3,9 +3,7 @@
 @import url(http://fonts.googleapis.com/css?family=Raleway);
 
 
-img, embed, object{
-	max-width: 100%;
-}
+
 
 
 .postcontent{
@@ -58,11 +56,22 @@ a:hover {
 	text-decoration: none;
 }
 
+img, embed, object{
+	max-width: 100%;
+}
+
 img{
 	border: 0px;
 	box-shadow: 0 0px 5px #cccccc;
 	border-radius: 5px;
     	//padding: 3px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 a img {
@@ -214,6 +223,14 @@ margin: 20px 5px 0px 0px;
 
 #side-bar #date {
 	font-size: 11px;
+}
+
+#portfolio-btn {
+	margin-top: 0px;
+	padding-top: 0px;
+	font-size: 18px;
+	color:#111111;
+	font-weight: 800;
 }
 
 #page-title {
