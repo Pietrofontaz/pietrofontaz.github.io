@@ -2,7 +2,7 @@
 layout: blog
 title: Percussui
 category: blog
-tags: [music]  
+tags: <script src="https://w.SoundCloud.com/player/api.js" type="text/javascript"></script> 
 summary: Nuovo brano.
 image: /images/blog/0percussui.jpg
 ---
