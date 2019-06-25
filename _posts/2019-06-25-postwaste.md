@@ -4,7 +4,7 @@ title: Zero waste!
 category: blog
 tags: [human]  
 summary: Oltre l'arte.
-image: /images/blog/caffè.jpg
+image: /images/blog/caffè.JPG
 ---
 
 Un tema che mi sento di trattare off-topic (anche se non necessariamente) è quello dell'ecosostenibilità.
