@@ -18,4 +18,4 @@ Un nuovo brano, realizzato nei giorni scorsi e terminato proprio ora per il mio 
 
 I suoni sono esclusivamente registrati e successivamente elaborati da me: sono pezzi di batteria, piatti, ceramiche e ciotole.
 
-Il tema è la prospettiva: il punto di fuga è centrale, con il soggetto al centro di una serie di avvenimenti sonori che lo circondano e lo coinvolgono togliendoli il fiato.
+Il tema è la prospettiva: il punto di fuga è centrale, con il soggetto al centro di una serie di avvenimenti sonori che lo circondano e lo coinvolgono togliendogli il fiato.
