@@ -16,4 +16,4 @@ Di seguito il link al profilo IG di Lucia Cucchi, che mi ha fatto conoscere ques
 
 <li><a href="https://www.instagram.com/luciacucchi_">Lucia Cucchi</a></li>
 
-Seguitela e cercate di approcciarvi al mondo zero-waste, l'inquinamento e i rifiuti che produciamo distruggono tutto ciò che ci circonda: non esisterà più niente da fotografare, niente da riprendere, nessuno ad ascoltare la nostra musica se continueremo a cercare di distruggere ciò che ci circonda, perchè la Terra non si farà uccidere, ma ucciderà noi.
+Seguitela e cercate di approcciarvi al mondo zero-waste, l'inquinamento e i rifiuti che produciamo distruggono tutto ciò che ci circonda: non esisterà più niente da fotografare, niente da riprendere, nessuno ad ascoltare la nostra musica se continueremo a distruggere ciò che ci circonda, perchè <b>la Terra non si farà uccidere, ma ucciderà noi.</b>
